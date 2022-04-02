@@ -1,5 +1,5 @@
 <p align="center">
-<script>alert(1)</script>
+<img src="https://lh3.googleusercontent.com/Q-356F4YxqScDFDcrl3_EZRzPKQrngf6lo_o00DrbkqOgidLvxunWMOiKeRGepr2VfTMkecSd1jpLNhPEZPI=w1366-h373">
 </p>
 
 # Wayload
