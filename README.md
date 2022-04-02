@@ -1,3 +1,6 @@
+<script>alert(1)</script>
+
+
 # Wayload
 
 payload bind and extract module by W4lk3r.
