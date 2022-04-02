@@ -1,5 +1,6 @@
+<p align="center">
 <script>alert(1)</script>
-
+</p>
 
 # Wayload
 
